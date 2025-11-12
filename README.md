@@ -9,3 +9,6 @@ A welcome page with basic HTML structure including `<html>`, `<head>`, `<body>`,
 
 ### `about.html`  
 A personal introduction page using headings (`<h1>`, `<h2>`) and a paragraph (`<p>`) to describe myself and my goals.
+
+### 'day3.html'
+Includes Day 3: practicing HTML links and images to build connected and visual web pages.
